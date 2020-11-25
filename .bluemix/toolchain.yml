@@ -205,7 +205,7 @@ form:
   hostedgit:
     parameters:
       catalog-api-repo_name: 'catalog-api-{{timestamp}}'
-      catalog-api-repo_url: 'https://github.com/huayuenh/Microservices_CatalogAPI_helm'
+      catalog-api-repo_url: 'https://github.com/open-toolchain/Microservices_CatalogAPI_helm'
       orders-api-repo_name: 'orders-api-{{timestamp}}'
       orders-api-repo_url: 'https://github.com/open-toolchain/Microservices_OrdersAPI_helm'
       ui-repo_name: 'ui-{{timestamp}}'
